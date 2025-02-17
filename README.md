@@ -1,2 +1,2 @@
 # webpack-template
-Project template for building basic Javascript applications with Webpack
+Project template for building basic JavaScript applications with Webpack
